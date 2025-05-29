@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Sound1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":512,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.545306,
+  "name":"Sound1",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"Sound1.mp3",
+  "type":2,
+  "volume":1.0,
+}
