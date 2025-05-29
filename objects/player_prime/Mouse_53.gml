@@ -1,4 +1,4 @@
-with (instance_create_layer(x,y,layer,Object4))
+with (instance_create_layer(x,y,layer,spit_bullet))
 {
 	direction = point_direction(x,y,mouse_x, mouse_y);
 	speed = 6;

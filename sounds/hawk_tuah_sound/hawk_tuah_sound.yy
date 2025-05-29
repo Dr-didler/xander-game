@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Sound1",
+  "%Name":"hawk_tuah_sound",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":4.545306,
-  "name":"Sound1",
+  "name":"hawk_tuah_sound",
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":48000,
-  "soundFile":"Sound1.mp3",
+  "soundFile":"hawk_tuah_sound.mp3",
   "type":2,
   "volume":1.0,
 }

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
+  "%Name":"super_fast_spit",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object6","path":"objects/Object6/Object6.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"solid_object","path":"objects/solid_object/solid_object.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object4",
+  "name":"super_fast_spit",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"Ultuah",
+    "path":"sprites/Ultuah/Ultuah.yy",
   },
   "spriteMaskId":null,
   "visible":true,
